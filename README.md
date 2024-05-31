@@ -58,7 +58,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-## Sample Output
+## **Sample Output**
 Enter your savings account balance: 1000
 Enter your savings account interest rate (in decimal): 0.05
 Enter the number of months for the savings account: 12
@@ -69,3 +69,8 @@ Enter your CD account interest rate (in decimal): 0.50
 Enter the number of months for the CD account: 15
 The interest earned for your CD account is: $125.00
 The updated CD account balance is: $20125.00
+
+## **Author**
+This Python script was written by Howard Dixon.
+
+
