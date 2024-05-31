@@ -26,7 +26,7 @@ This Customer Banking System is a simple application that allows users to calcul
 ## Dependencies
 - Python 3.x
 
-## Customer_Banking.py (Main Script)
+## customer_banking.py (Main Script)
 
 ```python
 from savings_account import create_savings_account
